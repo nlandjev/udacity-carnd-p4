@@ -111,7 +111,7 @@ An example of an image and the corresponding lane overlay is presented here:
 
 The implementation of the pipeline applied to a video is implemented in the `lane-detection-video.ipynb` noteboook. It is almost identical to the `lane-detection-pipeline.ipynb` with the addition of a lane curvature and vehicle position added to the output frames.
 
-Here's a link to my video result: [``output_video.mp4``](https://github.com/nlandjev/udacity-carnd-p4/blob/master/output_video.mp4)
+Here's a link to my video result: [``project_video_output.mp4``](https://github.com/nlandjev/udacity-carnd-p4/blob/master/output_videos/project_video_output.mp4)
 
 ---
 

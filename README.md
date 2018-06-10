@@ -6,6 +6,6 @@ Relevant files:
 
 2. Lane detection notebook - [``lane-detection-video.ipynb``](https://github.com/nlandjev/udacity-carnd-p4/blob/master/notebooks/lane-detection-video.ipynb)
 
-3. Output video - [``output_video.mp4``](https://github.com/nlandjev/udacity-carnd-p4/blob/master/output_video.mp4)
+3. Output video - [``project_output_video.mp4``](https://github.com/nlandjev/udacity-carnd-p4/blob/master/output_videos/project_video_output.mp4)
 
 4. Writeup - [``writeup.md``](https://github.com/nlandjev/udacity-carnd-p4/blob/master/writeup.md)
