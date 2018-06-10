@@ -1,6 +1,4 @@
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
+## Writeup
 
 ---
 
@@ -48,7 +46,7 @@ I then used the output `objpoints` and `imgpoints` to compute the camera calibra
 
 ### Pipeline (single images)
 
-The exploratory pipeline notebook can be found here: `./examples/lane-detection-pipeline.ipynb` (TODO: add link)
+The exploratory pipeline notebook can be found here: [``lane-detection-pipeline.ipynb``](https://github.com/nlandjev/udacity-carnd-p4/blob/master/notebooks/lane-detection-pipeline.ipynb)
 
 #### 1. Provide an example of a distortion-corrected image.
 
@@ -113,7 +111,7 @@ An example of an image and the corresponding lane overlay is presented here:
 
 The implementation of the pipeline applied to a video is implemented in the `lane-detection-video.ipynb` noteboook. It is almost identical to the `lane-detection-pipeline.ipynb` with the addition of a lane curvature and vehicle position added to the output frames.
 
-Here's a [link to my video result](./output_videos/video_output.mp4)
+Here's a link to my video result: [``output_video.mp4``](https://github.com/nlandjev/udacity-carnd-p4/blob/master/output_video.mp4)
 
 ---
 
